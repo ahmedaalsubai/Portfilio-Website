@@ -1,3 +1,2 @@
 # Portfilio-Website
-My own personal Portfilio Website
-https://www.aalsubai.com/
+My own personal Portfilio Website https://www.aalsubai.com/
